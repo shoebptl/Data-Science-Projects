@@ -1,4 +1,5 @@
 
 # Data-Science-Projects
 
-These are my projects which I have done in my training with scaler
+These are my projects which I have done in my training with scaler.
+I am not including some datasets because of copyright issues.
